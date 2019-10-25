@@ -1,4 +1,4 @@
-# AGVCar_EIE3105
+# Robotic Car for EIE3105
 A small robotic car development project for EIE3105.  
 
 It was an embedded system based on ARM microcontroller.  The AGV was equiped with track sensors (an array of IR emitters and reciever) and WiFi broadcast reciever.
